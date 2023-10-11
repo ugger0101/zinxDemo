@@ -1,1 +1,1 @@
-module zinxDemo
+module zinx
